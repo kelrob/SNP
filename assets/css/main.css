@@ -1,0 +1,29 @@
+body {
+    background-color: #33C481;
+}
+
+#login_form {
+    margin-top: 4%;
+    border: 1px solid #eee;
+}
+
+#down_line {
+    padding-bottom: 4%;
+    border-bottom: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#action_buttons {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+#request-modal {
+    display: none;
+    font-weight: bold;
+    color: #EE2123;
+}
+
+#request-fade  {
+    display: none;
+}
